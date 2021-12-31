@@ -4,7 +4,7 @@ Builds libomp for OSX.
 
 ## Instructions
 
-1. Run to build `libomp-11.1.0.tbz2`
+1. Run to build `libomp-11.0.1.tbz2`
 
 ```bash
 ./build.sh
